@@ -1,2 +1,2 @@
 ```math
-L = \{ \mathbf{x} + t\mathbf{v} \mid t \in \mathbb{R} \}
+(AB)ij​\=k\=1∑n​Aik​Bkj​
